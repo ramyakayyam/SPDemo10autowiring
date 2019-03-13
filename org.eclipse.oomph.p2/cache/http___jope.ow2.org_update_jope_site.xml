@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<site>
+   <description url="http://jope.objectweb.org/update/jope/">
+      Eclipse update site of the JOnAS Plugin for Eclipse (JOPE).
+   </description>
+   <feature url="features/org.ow2.jonas.wtp.adapter_5.1.2.jar" id="org.ow2.jonas.wtp.adapter" version="5.1.2">
+      <category name="org.eclipse.wst.server.core.serverAdapter"/>
+   </feature>
+   <feature url="features/org.ow2.jonas.wtp.adapter_5.1.0.jar" id="org.ow2.jonas.wtp.adapter" version="5.1.0">
+      <category name="org.eclipse.wst.server.core.serverAdapter"/>
+   </feature>
+   <category-def name="org.eclipse.wst.server.core.serverAdapter" label="JOnAS Server Adapter">
+      <description>
+         Adds the OW2 JOnAS Server Adapter to Eclipse.
+      </description>
+   </category-def>
+</site>

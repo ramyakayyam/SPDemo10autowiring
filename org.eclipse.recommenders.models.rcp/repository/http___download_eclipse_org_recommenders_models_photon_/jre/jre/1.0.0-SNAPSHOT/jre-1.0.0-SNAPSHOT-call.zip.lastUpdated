@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 07 11:22:37 IST 2019
+@default-models-http\://download.eclipse.org/recommenders/models/photon/.lastUpdated=1551937957705
+http\://download.eclipse.org/recommenders/models/photon/.error=Could not transfer artifact jre\:jre\:zip\:call\:1.0.0-SNAPSHOT from/to models (http\://download.eclipse.org/recommenders/models/photon/)\: download.eclipse.org
